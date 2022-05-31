@@ -1,7 +1,11 @@
 let musicas = [
-    {titulo:'Guitar solo', artista:'João Tinti', source:'musicas/We Ride! - Reed Mathis.mp3', img:'imagens/rock.jpg'},
-    {titulo:'Samba raiz', artista:'Bossa Nova Brasil', source:'musicas/Ella Vater - The Mini Vandals.mp3', img:'imagens/samba.jpg'},
-    {titulo:'Música piano', artista:'John Green', source:'musicas/A Brand New Start - TrackTribe (1).mp3', img:'imagens/piano.jpg'}
+    {titulo:'Separate ways', artista:'Journey', source:'Músicas/Separate ways (Worlds Apart).mp3', img:'Imagens/capa'},
+    {titulo:'Change of Heart', artista:'Cyndi Lauper', source:'Músicas/Change of Heart.mp3', img:'Imagens/capa'},
+    {titulo:'Danger Zone', artista:'Kenny Loggins', source:'Músicas/Kenny Loggins - Danger Zone.mp3', img:'Imagens/capa'},
+    {titulo:'Kids', artista:'Kyle Dixon', source:'Músicas/kids.mp3', img:'Imagens/capa'},
+    {titulo:'Need you tonight', artista:'INXS', source:'Músicas/Need You Tonight.mp3', img:'Imagens/capa'},
+    {titulo:'Push it to the limit', artista:'Paul Engemann', source:'Músicas/Push It To The Limit - Paul Engemann.mp3', img:'Imagens/capa'},
+   
 ];
 
 // INICIO

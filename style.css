@@ -1,6 +1,4 @@
-body, html {
-    margin: 0;
-    padding: 0;
+body {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -11,6 +9,12 @@ body, html {
     background-size: cover;
     color: #ddd;
     font-family: 'Montserrat', sans-serif;
+}
+
+#container {
+    background-color: antiquewhite;
+    height: 50vh;
+    width: 12vw;
 }
 
 img {
